@@ -1,4 +1,5 @@
 *.obj
 *.exe
+*.vsidx
 /bin/
 /obj/
