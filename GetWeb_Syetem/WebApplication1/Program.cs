@@ -24,4 +24,4 @@ app.MapRazorPages();
 
 app.Run();
 //Remove the http endpoint in the launcher.json to remove HTTPS with cer issues
-//Should futher issues show up, contact the admin
+//Should futher issues show up, contact the administrator
