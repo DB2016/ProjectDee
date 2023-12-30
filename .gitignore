@@ -1,5 +1,6 @@
 *.obj
 *.exe
 *.vsidx
+*.vs
 /bin/
 /obj/
